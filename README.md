@@ -1,4 +1,4 @@
-# Performance-Study-of-Load-balancing-with-Random-Choices
+# Performance-Study-of-Load-balancing-with-Random-Choices-CSC446
 Background: Load balancing is used in many systems, e.g., cloud computing, web server
 farms, Domain Name Servers (DNS). As an abstract model, we assume a set of $m$ servers
 work in parallel to serve customers. Each server could be modelled as a FIFO queueing
